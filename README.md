@@ -17,8 +17,9 @@
 
 <h3>데이터베이스 테이블 구조</h3>
 - db: mysql
+
 - site_user 테이블
-![image](https://github.com/minjuaaa/wanted-pre-onboarding-backend/assets/51702223/081579c0-fb89-49bb-ba33-2cb97e47c969)
+![image](https://github.com/minjuaaa/wanted-pre-onboarding-backend/assets/51702223/24d119d8-267e-430c-ad32-e8948622d93d)
 
 - question 테이블
 - author_id는 외래키(fk)로 site_user테이블의 id 값과 연결됩니다.
