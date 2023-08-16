@@ -20,7 +20,7 @@
 
 - site_user 테이블
 ![image](https://github.com/minjuaaa/wanted-pre-onboarding-backend/assets/51702223/24d119d8-267e-430c-ad32-e8948622d93d)
-
+<br>
 - question 테이블
 - author_id는 외래키(fk)로 site_user테이블의 id 값과 연결됩니다.
 ![image](https://github.com/minjuaaa/wanted-pre-onboarding-backend/assets/51702223/ac5ccb02-d75c-4a6d-be18-2ae4387f836e)
