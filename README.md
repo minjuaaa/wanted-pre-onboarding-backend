@@ -7,6 +7,7 @@
 
 ## 애플리케이션의 실행 방법 (엔드포인트 호출 방법 포함)
 - 과제 1. 사용자 회원가입 엔드포인트
+- 
 - 과제 2. 사용자 로그인 엔드포인트
 - 과제 3. 새로운 게시글을 생성하는 엔드포인트
 - 과제 4. 게시글 목록을 조회하는 엔드포인트
@@ -22,7 +23,7 @@
 
 <br/>
 ### question 테이블
-- author_id는 외래키(fk)로 site_user테이블의 id 값과 연결됩니다.
+#### author_id는 외래키(fk)로 site_user테이블의 id 값과 연결됩니다.
 ![image](https://github.com/minjuaaa/wanted-pre-onboarding-backend/assets/51702223/ac5ccb02-d75c-4a6d-be18-2ae4387f836e)
 
 
