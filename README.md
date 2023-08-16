@@ -16,8 +16,6 @@
 
 
 <h3>데이터베이스 테이블 구조</h3>
-- db: mysql
-
 - site_user 테이블
 ![image](https://github.com/minjuaaa/wanted-pre-onboarding-backend/assets/51702223/24d119d8-267e-430c-ad32-e8948622d93d)
 <br>
